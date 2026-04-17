@@ -1,0 +1,2 @@
+variable "prdo_vpc" {
+}
